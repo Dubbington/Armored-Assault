@@ -11,6 +11,7 @@ This is where you will be able to find all experimental builds of the Armored As
 Based on its counterpart from ArmA 3, Antistasi is a toggleable gamemode for survival that allows for invading
 
 ## Controls
+<img src="altkeyboard.png" width="100%" alt="Banner">
 
 ## 
 
