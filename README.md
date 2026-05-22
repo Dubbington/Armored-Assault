@@ -2,3 +2,5 @@
 
 # Armored assault
 Redefining Combat with a Combined-Arms Approach.
+
+### All Rights Reserved - Viva l'Algérie
