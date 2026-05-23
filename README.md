@@ -1,6 +1,6 @@
 <img src="2lenin.png" width="100%">
 
-# Armored assault
+# Armored Assault
 Redefining Combat with a Combined-Arms Approach.
 
 This is where you will be able to find all experimental builds of the Armored Assault mod and full documentation and wiki-coverage of the inner-workings of the main mod and Antistasi.
