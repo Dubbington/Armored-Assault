@@ -15,7 +15,7 @@ This is where you will be able to find all experimental builds of the Armored As
 #### Cars
 
 ## Antistasi
-Based on its counterpart from ArmA 3, Antistasi is a toggleable gamemode for survival that allows for various computer-controlled factions to invade the map or aid in its defense.
+Loosely based on the gamemode of the same name for ArmA 3, Antistasi is a toggleable dynamic campaign for survival that allows for various computer-controlled factions to invade the map or aid in its defense.
 
 ### Factions
 -  #### 7th MEU (BLUFOR)
