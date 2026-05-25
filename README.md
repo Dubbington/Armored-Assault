@@ -58,6 +58,41 @@ This is where you will be able to find all experimental builds of the Armored As
   -  PG-2 Grenade
   -  4rnd 23x75mmR Buckshot
   -  4rnd 23x75mmR Slug
+####   Ammunition & Ordnance (Vehicles and Emplacements)
+  -  40rnd 14.5x114mm Belt
+  -  300rnd 20x99mmR Belt
+  -  1470rnd 12.7x108mm Belt
+  -  2000rnd 23x152mmB Belt
+  -  160rnd 30x155mm Belt
+  -  5rnd 37x252mmSR AP-T Anti-Air Clip
+  -  45mm AP Round
+  -  76mm AP Round
+  -  76mm HE Round
+  -  76mm HEAT Round
+  -  85mm AP Round
+  -  85mm HE Round
+  -  85mm HEAT Round
+  -  100mm APCBC Round
+  -  100mm APFSDS Round
+  -  100mm HEAT-FS Round
+  -  100mm APDS Round
+  -  100mm HE Round
+  -  Propellant Charge
+  -  203mm HE Shell
+  -  203mm 3BV2 Kleshchevina Atomic Shell
+  -  PG-9 73mm HEAT-FS Round
+  -  9M111 Anti-Tank Missile
+  -  9K114 Shturm Radio-Guided Anti-Tank Missile
+  -  RS-82 HE Rocket
+  -  S-8 HEAT Rocket
+  -  K-13 Air-to-Air Missile
+  -  Kh-23 Grom Air-to-Ground Missile
+  -  FAB-250 M62 Aerial Gravity Bomb
+  -  FAB-500 M62 Aerial Gravity Bomb
+  -  FAB-1000 M62 Aerial Gravity Bomb
+  -  KAB-500L Laser Guided Bomb
+  -  KAB-1500L Laser Guided Bomb
+  -  RN-24 Nuclear Gravity Bomb
 ####   Crafting Components
   -  Medium-Carbon Steel Ingot
   -  Brass Ingot
