@@ -223,9 +223,14 @@ This is where you will be able to find all experimental builds of the Armored As
 Loosely based on the gamemode of the same name for ArmA 3, Antistasi is a toggleable dynamic campaign for survival that allows for various computer-controlled factions to invade the map or aid in its defense.
 
 ### Factions
--  #### 7th MEU (BLUFOR)
--  #### 40th Army (OPFOR)
--  #### Front for Armed Struggle (INDFOR)
+#### 7th MEU (BLUFOR)
+<img src="flagBlufor.png" width="25%">
+
+#### 40th Army (OPFOR)
+<img src="flagOpfor.png" width="25%">
+
+#### Front for Armed Struggle (INDFOR)
+<img src="flagIndfor.png" width="25%">
 
 ## Controls
 <img src="altkeyboard.png" width="100%">
