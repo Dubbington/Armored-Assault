@@ -40,7 +40,7 @@ This is where you will be able to find all experimental builds of the Armored As
   -  Berezka
   -  M39
 ### Items
-### Ammunition (Light Arms)
+####   Ammunition (Light Arms)
   -  Pistol Caliber Rounds
   -  Rifle Rounds
   -  8rnd 7.62x25mm Tokarev Magazine
@@ -58,7 +58,7 @@ This is where you will be able to find all experimental builds of the Armored As
   -  PG-2 Grenade
   -  4rnd 23x75mmR Buckshot
   -  4rnd 23x75mmR Slug
-#### Crafting Components
+####   Crafting Components
   -  Medium-Carbon Steel Ingot
   -  Brass Ingot
   -  DU Ingot
@@ -162,26 +162,26 @@ This is where you will be able to find all experimental builds of the Armored As
   -  Artillery Workbench
   -  Aircraft Workbench
 ### Vehicles
-#### Fixed-Wing
+####   Fixed-Wing
   -  Yak-7B
   -  Su-17M2
-#### Helicopter
+####   Helicopter
   -  Mi-24V
-#### APCs & Light Armor
+####   APCs & Light Armor
   -  BRDM-2
-#### Tanks
+####   Tanks
   -  BT-7
   -  T-34/85
   -  KV-1
   -  T-55A
   -  PT-76
-#### SPAAs
+####   SPAAs
   -  ZSU-23-4
-#### Artillery
+####   Artillery
   -  203mm Howitzer M1939 (B-4)
   -  37mm M1939 (61-K)
   -  82mm BM-37 Mortar
-#### Cars
+####   Cars
   -  UAZ-469 (+ SPG-9 variant)
 
 ## Antistasi
