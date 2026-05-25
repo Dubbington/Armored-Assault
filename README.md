@@ -237,4 +237,4 @@ Loosely based on the gamemode of the same name for ArmA 3, Antistasi is a toggle
 
 ## Soundtrack
 
-### All Rights Reserved - Viva l'Algérie
+## All Rights Reserved - Viva l'Algérie
