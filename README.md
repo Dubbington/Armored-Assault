@@ -236,4 +236,8 @@ Loosely based on the gamemode of the same name for ArmA 3, Antistasi is a toggle
 <img src="altkeyboard.png" width="100%">
 
 ## Soundtrack
-<iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=286987352/size=large/bgcol=333333/linkcol=e32c14/tracklist=false/transparent=true/" seamless><a href="https://117dub.bandcamp.com/album/armored-assault-original-soundtrack">Armored Assault Original Soundtrack by 117Dub</a></iframe>
+Armored Assault has a full original mod soundtrack for teaser videos and is played ingame in Antistasi mode.
+
+
+### Armored Assault - Volume I
+[<img src="icon.png" width="25%">]([http://example.com/](https://117dub.bandcamp.com/album/armored-assault-volume-i))
