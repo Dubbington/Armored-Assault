@@ -24,6 +24,7 @@ This is where you will be able to find all experimental builds of the Armored As
   -  RPK
   -  DP-27
   -  PKM
+  -  PKP Pecheneg
   -  KS-23 (+ variants)
   -  RPG-22
 ### Equipment
